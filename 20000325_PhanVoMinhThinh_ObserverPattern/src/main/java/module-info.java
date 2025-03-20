@@ -1,0 +1,2 @@
+module ObserverPatternExample.main {
+}
